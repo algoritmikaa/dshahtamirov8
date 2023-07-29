@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(140, 200, 218);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+main h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+footer p {
+    background-color: rgb(68, 194, 68);
+    padding: 8px;
+
+} 
+
+nav a {
+    margin: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    background-color: darkgreen;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.deni {
+    background-color: rgb(57, 151, 57);
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
